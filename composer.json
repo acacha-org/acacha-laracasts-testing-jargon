@@ -1,0 +1,8 @@
+{
+    "name": "acacha-laracasts-testing-jargon",
+    "require": {
+        "phpspec/phpspec": "~2.1"
+    },
+    "autoload": {"psr-4": {"Acacha\\Laracasts\\TestingJargon\\": "src/"}}
+
+}

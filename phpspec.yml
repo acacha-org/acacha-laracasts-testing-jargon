@@ -1,0 +1,5 @@
+suites:
+   main:
+       namespace: Acacha\Laracasts\TestingJargon
+       psr4_prefix: Acacha\Laracasts\TestingJargon
+       src_path: src
