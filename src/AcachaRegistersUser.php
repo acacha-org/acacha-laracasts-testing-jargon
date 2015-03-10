@@ -17,7 +17,6 @@ class AcachaRegistersUser
 
     function __construct(UserRepository $repository,Mailer $mailer)
     {
-
         $this->repository = $repository;
         $this->mailer = $mailer;
     }
